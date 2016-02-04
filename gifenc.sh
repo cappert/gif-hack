@@ -1,6 +1,6 @@
 #!/bin/sh
 
-palette="/tmp/palette.png"
+palette="palette.png"
 
 filters="fps=15,scale=320:-1:flags=lanczos"
 
